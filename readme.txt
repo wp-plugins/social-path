@@ -15,7 +15,7 @@ Share your posts on Twitter, Google+ and Facebook.
 This mini plugin integrates automatically with Path Theme. Just activate this plugin and you can share your posts on Twitter, Google+ and Facebook.
 Plugin adds these buttons after singular post.
 
-If you want to use this theme with another theme add this in your template file.
+If you want to use this plugin with another theme add this in your template file.
 
 `
 if ( function_exists( 'social_path_media' ) )
