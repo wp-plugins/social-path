@@ -1,5 +1,5 @@
 === Social Path ===
-Contributors: samikeijonen
+Contributors: sami.keijonen
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E65RCFVD3QGYU
 Tags: social, facebook, twitter, google, media
 Requires at least: 3.3
